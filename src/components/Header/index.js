@@ -4,7 +4,7 @@ function Header() {
     return (
         <header className="bg-splash-gray px3 py3 border-bottom border-light-gray">
             <div className="center">
-                <a href="">
+                <a href="https://haakenjportfolio.herokuapp.com">
                     <img data-src="../../assets/img/kramer-johnson.png" 
                         alt="Kramer Johnson" 
                         className=" border bg-white p1 border-light-gray circle square-100 lazyloaded" 
@@ -17,8 +17,9 @@ function Header() {
                         </h1>
                     </a>
                 </div>
-                <h2 className="page-description body-font gray mt0 h3 regular">
-
+                <h2 className="sub-title body-font gray mt0 h3 regular">
+                    <div>Full-Stack Software Developer,</div>
+                    <div> Outdoorsman, and Connoisseur of Odd Music</div>
                 </h2>
             </div>
         </header>
