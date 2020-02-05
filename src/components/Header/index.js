@@ -5,13 +5,13 @@ function Header() {
         <header className="bg-splash-gray px3 py3 border-bottom border-light-gray">
             <div className="center">
                 <a href="https://haakenjportfolio.herokuapp.com">
-                    <img data-src="../../assets/img/kramer-johnson.png" 
+                    <img data-src={process.env.PUBLIC_URL + "kramer-johnson.png"} 
                         alt="Kramer Johnson" 
                         className=" border bg-white p1 border-light-gray circle square-100 lazyloaded" 
                         src={process.env.PUBLIC_URL + "kramer-johnson.png"} />
                 </a>
                 <div className="clearfix">
-                    <a href="">
+                    <a href="/">
                         <h1 className="page-title mt0 mb1">
                             Kramer Haaken Johnson
                         </h1>
