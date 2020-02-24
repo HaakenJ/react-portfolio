@@ -16,23 +16,24 @@ function ProjectList() {
                         target="_blank" rel="noopener noreferrer" 
                         name="gruntwork">
                         <h2 className="mt0 mb0">
-                            In Progress: AdopAPlant
+                            AdopAPlant
                         </h2>
+                    </a>
+                    <a href="https://adoptaplant.herokuapp.com" 
+                        target="_blank" rel="noopener noreferrer" 
+                        className="block h6 mb2">Live Site
                     </a>
                     <a href="https://github.com/HaakenJ/AdoptAPlant" 
                         target="_blank" rel="noopener noreferrer" 
-                        className="block h6 mb2">https://github.com/HaakenJ/AdoptAPlant
+                        className="block h6 mb2">Github Repo
                     </a>
                     <p className="left-align">
-                        This project is currently in progress and I am very excited about it.  My team and I 
-                        are creating a MERN stack application that is connected with a Raspberry Pi automatic 
-                        plant care system.  Users can sign up for our website and 'Adopt a Plant'.  The user will 
-                        be able to log in, see a live stream video of their plant, see data such as temperature, 
-                        amibient humidity, soil humidity, and light levels.  The user is presented with a button that 
-                        allows them to water their plant whenever they feel necessary and watch it happen!
-                    </p>
-                    <p>
-                        Feel free to follow us on the Github repo to see the final result!
+                        AdoptAPlant is a MERN stack application that allows users to adopt a plant that they
+                        can take care of from their own web interface.  The project uses a Raspberry Pi to 
+                        give the user the ability to see a live stream video of their plant, water the plant or
+                        toggle the lights with the touch of a button, see live data such as humidty, soil moisture 
+                        levels, and temperature, and even set a watering schedule for the plant to be automatically
+                        maintained.  
                     </p>
                 </div>
             </div>
@@ -54,11 +55,11 @@ function ProjectList() {
                     </a>
                     <a href="https://whatsmydata.herokuapp.com" 
                         target="_blank" rel="noopener noreferrer" 
-                        className="block h6 mb2">https://whatsmydata.herokuapp.com
+                        className="block h6 mb2">Live Site
                     </a>
                     <a href="https://github.com/HaakenJ/WhatsMyData" 
                         target="_blank" rel="noopener noreferrer" 
-                        className="block h6 mb2">https://github.com/HaakenJ/WhatsMyData
+                        className="block h6 mb2">Github Repo
                     </a>
                     <p className="left-align">What's My Data? is an education website to teach users about what basic 
                         info every website they visit is able to gather on them.  I was inspired to build this site after 
@@ -88,12 +89,12 @@ function ProjectList() {
                     <a href="https://HaakenJ.github.io/Light-Snow/" 
                         target="_blank" rel="noopener noreferrer" 
                         className="block h6 mb2">
-                            https://HaakenJ.github.io/Light-Snow
+                            Live Site
                     </a>
                     <a href="https://github.com/HaakenJ/Light-Snow/" 
                         target="_blank" rel="noopener noreferrer" 
                         className="block h6 mb2">
-                            https://github.com/HaakenJ/Light-Snow
+                            Github Repo
                     </a>
                     <a href="https://imgur.com/gallery/czgMh7R" 
                         target="_blank" rel="noopener noreferrer" 
@@ -130,11 +131,11 @@ function ProjectList() {
                     </a>
                     <a href="https://friendfinder-12345.herokuapp.com/" 
                         target="_blank" rel="noopener noreferrer" 
-                        className="block h6 mb2">https://friendfinder-12345.herokuapp.com/
+                        className="block h6 mb2">Live Site
                     </a>
                     <a href="https://github.com/HaakenJ/FriendFinder" 
                         target="_blank" rel="noopener noreferrer" 
-                        className="block h6 mb2">https://github.com/HaakenJ/FriendFinder
+                        className="block h6 mb2">Github Repo
                     </a>
                     <p className="left-align">
                         FriendFinder is a web app for finding new friends and love interests. 
