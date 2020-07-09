@@ -16,7 +16,7 @@ function ProjectList() {
                         target="_blank" rel="noopener noreferrer" 
                         name="gruntwork">
                         <h2 className="mt0 mb0">
-                            AdopAPlant
+                            AdoptAPlant
                         </h2>
                     </a>
                     <a href="https://adoptaplant.herokuapp.com" 
@@ -33,7 +33,9 @@ function ProjectList() {
                         give the user the ability to see a live stream video of their plant, water the plant or
                         toggle the lights with the touch of a button, see live data such as humidty, soil moisture 
                         levels, and temperature, and even set a watering schedule for the plant to be automatically
-                        maintained.  
+                        maintained.  Unfortunately, keeping this real plant setup took up quite a bit of space in my 
+                        apartment and I had to take it down.  On the site you can "water" the plant and turn the lights 
+                        on and off.  These are real gifs of these operations in action when the system was set up.
                     </p>
                 </div>
             </div>
