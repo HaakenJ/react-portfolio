@@ -19,7 +19,7 @@ function Header() {
                 </div>
                 <h2 className="sub-title body-font gray mt0 h3 regular">
                     <div>Full-Stack Software Developer,</div>
-                    <div> Outdoorsman, and Connoisseur of Odd Music</div>
+                    <div> Outdoorsman, and Avid Record Collector</div>
                 </h2>
             </div>
         </header>
