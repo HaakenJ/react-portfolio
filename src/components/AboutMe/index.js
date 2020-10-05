@@ -7,15 +7,16 @@ function AboutMe() {
                 <div className="col sm-col-9 px2">
                     <h3 className="mb2">About me</h3>
                     <p>
-                        Hi I'm Kramer, a full-stack devleloper who is never short on enthusiasm for learning about 
-                        computer science.  When I'm not programming I love to ski, rock climb, and play classical guitar.  
-                        I excel in the use of the MERN stack 
-                        (MongoDB, Express, React, and Node.js), and am also experienced with MySQL. I have developed 
-                        multiple projects in Python and Java and am comfortable working in object-oriented Design.
+                        Hi I'm Kramer, a full-stack software engineer who is never short on enthusiasm for learning about 
+                        computer science.  When I'm not studying for my M.S. in Computer Science at Seattle University
+                         I love to ski, rock climb, and play guitar.  I excel in the use of the MERN stack 
+                        (MongoDB, Express, React, and Node.js), MySQL, and object-oriented languages such as Java and C++. 
+                        I have developed a plethora of projects in Python, Java, and C++ and have ample experience in 
+                        data structures, algorithms, and database design.
                          In the past I have worked as an accountant building the
                         <a href="https://southport.life/"> Southport On Lake Washington</a> complex, an English teacher 
                         in South Korea, and I even got to get paid to take dogs on hikes for a while.  As an accountant 
-                        I have gained ample experience working on large datasets and projects with teams from with a wide 
+                        I have gained experience working on large datasets and projects with teams from with a wide 
                         variety of priorities and backgrounds. I earned my two Bachelor's degrees from Western Washington University 
                         in Economics and Philosophy which provided me with the logical and analyitical skills that have
                         turned me into the developer I am now.
